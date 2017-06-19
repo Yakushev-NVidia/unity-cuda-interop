@@ -1,0 +1,14 @@
+
+# User-specific files
+*.db
+*.opendb
+*.suo
+*.user
+*.sln.docstates
+.vs/
+
+# Build results
+obj/
+
+# Unity
+Library/
